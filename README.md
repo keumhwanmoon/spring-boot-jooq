@@ -1,2 +1,2 @@
-H2로 실행할 경우
-    * mvn clean install -P -h2
+#JOOQ generate 명령어
+'''mvn clean install -P h2
